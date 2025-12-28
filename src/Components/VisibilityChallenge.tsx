@@ -32,7 +32,7 @@ export default function VisibilityChallenge() {
             The Visibility Challenge
           </h2>
           <p className="text-base sm:text-lg text-gray-600 max-w-3xl mx-auto px-4">
-            Africa accounts for 16.7% of the global population yet remains
+            Africa accounts for 18.8% of the global population yet remains
             marginally represented in global research infrastructures.
           </p>
         </div>

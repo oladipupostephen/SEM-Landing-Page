@@ -6,7 +6,7 @@ export default function VisibilityChallenge() {
       unit: "%",
       title: "Global Scientific Output",
       description:
-        "Despite hosting 16.7% of the global population, Africa contributes less than 1% of globally visible scientific publications.",
+        "Despite hosting 18.8%% of the global population, Africa contributes less than 1% of globally visible scientific publications.",
     },
     {
       value: "0.49",

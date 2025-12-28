@@ -38,7 +38,7 @@ export default function LearnMoreModal({
         className="relative bg-white rounded-2xl shadow-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}>
         {/* Header with decorative background */}
-        <div className="relative bg-linear-to-r from-[#1a2744] to-[#2d3f5f] p-3 sm:p-4 rounded-t-2xl">
+        <div className="relative bg-linear-to-r from-[#1a2744] to-[#2d3f5f] p-3 sm:p-4 rounded-t-2xl h-15">
           <button
             onClick={onClose}
             className="absolute top-4 right-4 text-white/80 hover:text-white transition-colors"
@@ -56,11 +56,6 @@ export default function LearnMoreModal({
               />
             </svg>
           </button>
-
-          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-0.5">
-            The Origin of SEM
-          </h2>
-          <div className="h-1 w-20 bg-red-400 rounded"></div>
         </div>
 
         {/* Content */}
@@ -68,8 +63,8 @@ export default function LearnMoreModal({
           {/* First Paragraph */}
           <div className="space-y-4">
             <p className="text-gray-700 leading-relaxed">
-              Web of SEM (Science, Education and Management) was first presented
-              at the{" "}
+              The ideology behind Web of SEM (Science, Education and Management)
+              was first presented at the{" "}
               <span className="font-semibold text-[#1a2744]">
                 African Student and Business Summit
               </span>{" "}

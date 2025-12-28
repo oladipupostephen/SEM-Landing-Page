@@ -21,7 +21,9 @@ export default function Navbar() {
           </div>
 
           <div className="flex items-center gap-2 sm:gap-4">
-            <button className="flex items-center gap-2 px-3 sm:px-4 py-2 text-xs sm:text-sm text-gray-700 hover:text-gray-900 transition-colors">
+            <a
+              href="#waitlist-form"
+              className="flex items-center gap-2 px-3 sm:px-4 py-2 text-xs sm:text-sm text-gray-700 hover:text-gray-900 transition-colors cursor-pointer">
               <div className="relative flex items-center">
                 <Image
                   src="/avatar-1.png"
@@ -39,7 +41,7 @@ export default function Navbar() {
                 />
               </div>
               <span className="whitespace-nowrap">Get Early access</span>
-            </button>
+            </a>
           </div>
         </div>
       </div>

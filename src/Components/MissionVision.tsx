@@ -107,11 +107,10 @@ export default function MissionVision() {
             Our Vision
           </h2>
           <p className="text-white/80 text-base sm:text-lg leading-relaxed">
-            &quot;To become Africa&apos;s leading indigenous scholarly
-            infrastructure, bridging the visibility gap between African and
-            global research ecosystems and positioning African scholars and
-            institutions as active, credible contributors to the global
-            knowledge economy.&quot;
+            To become Africa&apos;s leading indigenous scholarly infrastructure,
+            bridging the visibility gap between African and global research
+            ecosystems and positioning African scholars and institutions as
+            active, credible contributors to the global knowledge economy.
           </p>
         </div>
       </div>
